@@ -1,0 +1,18 @@
+# Do not include input/output data
+*.txt
+*.tsv
+*.log
+*.png
+
+# VS Code
+.vscode/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Java compiled class file
+*.class
+
+python/conception/word_sense_disambiguation/*
