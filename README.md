@@ -9,7 +9,7 @@
 
 ## Description
 This is the repository for the paper *Conception: Multilingually-Enhanced, Human-Readable Concept Vector Representations*,
-to be presented at COLING 2020 by Simone Conia and Roberto Navigli.
+presented at COLING 2020 by Simone Conia and Roberto Navigli.
 
 
 ## Abstract
