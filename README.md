@@ -36,7 +36,7 @@ You can download a copy of all the files in this repository by cloning the
 or [download a zip archive](https://github.com/SapienzaNLP/conception/archive/master.zip).
 
 ### Vectors
-Coming soon!
+* [Link to Google Drive (9GB)](https://drive.google.com/file/d/1o3hQc69qUeW-InUzfI2Qtc35AMX1XPDD/view?usp=sharing)
 
 ## Requirements
 If you want to recreate or use the vectors, you will need the BabelNet APIs.
